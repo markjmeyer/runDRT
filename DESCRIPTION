@@ -2,7 +2,7 @@ Package: runDRT
 Title: Run Doubly Ranked Tests
 Version: 0.1.0
 Authors@R: 
-    person("Mark J.", "Meyer", , "mjm556@georgetown.edu", role = c("aut", "cre"),
+    person("Mark J.", "Meyer", , "mjm556@georgetown.edu", role = c("aut", "cre", "cph"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
 Description: Doubly ranked tests are nonparametric tests for grouped functional and multivariate data.
     The testing procedure first ranks a matrix (or three dimensional array) of data by column (if a matrix) or by cell (across the third dimension if an array).
