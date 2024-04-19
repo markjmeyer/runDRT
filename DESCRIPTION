@@ -1,6 +1,6 @@
 Package: runDRT
 Title: Run Doubly Ranked Tests
-Version: 0.0.0.9000
+Version: 0.1.0
 Authors@R: 
     person("Mark J.", "Meyer", , "mjm556@georgetown.edu", role = c("aut", "cre"),
            comment = c(ORCID = "YOUR-ORCID-ID"))
