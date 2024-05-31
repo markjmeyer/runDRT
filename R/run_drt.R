@@ -51,7 +51,7 @@
 #'    \code{data} \tab a list containing `X` and `G`. \cr
 #' }
 #'
-#' @references Meyer, MJ (2024). Doubly ranked tests for grouped functional data. _Available on arXiv_ at <https://arxiv.org/abs/2306.14761>.
+#' @references Meyer, MJ (2024). Doubly ranked tests for grouped functional data. \emph{Available on arXiv} at \url{https://arxiv.org/abs/2306.14761}.
 #'
 #' @examples
 #' #### Two Sample Problem: Resin Viscosity ####

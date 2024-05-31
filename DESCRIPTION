@@ -3,11 +3,11 @@ Title: Run Doubly Ranked Tests
 Version: 0.1.0
 Authors@R: 
     person("Mark J.", "Meyer", , "mjm556@georgetown.edu", role = c("aut", "cre", "cph"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
+           comment = c(ORCID = "0000-0003-3942-9675"))
 Description: Doubly ranked tests are nonparametric tests for grouped functional and multivariate data.
     The testing procedure first ranks a matrix (or three dimensional array) of data by column (if a matrix) or by cell (across the third dimension if an array).
-    It then calculates a sufficient statistic for the rank over the columns or cells.
-    Depending on the number of groups, G, the summarized ranks are then analyzed using either a Wilcoxon Rank Sum test (G = 2) or a Kruskal Wallis (G greater than 2).
+    It then calculates a sufficient statistic for the order in the sample using the observed ranks, taken over the columns or cells.
+    Depending on the number of groups, G, the summarized ranks are then analyzed using either a Wilcoxon Rank Sum test (G = 2) or a Kruskal-Wallis (G greater than 2).
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.1
