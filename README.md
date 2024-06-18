@@ -4,8 +4,7 @@ An R Package that contains code to run Doubly Ranked Tests (DRTs) as described b
 that can be used to compare groups of curves or surfaces.
 
 ## Installation 
-Run the following code:
+runDRT is now available on CRAN!
 ```
-install.packages("devtools")
-devtools::install_github("markjmeyer/runDRT")
+install.packages("runDRT")
 ```
