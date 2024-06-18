@@ -8,3 +8,4 @@ runDRT is now available on CRAN!
 ```
 install.packages("runDRT")
 ```
+See [Meyer (2024)](https://CRAN.R-project.org/package=runDRT) for details.
